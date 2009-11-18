@@ -1,0 +1,60 @@
+Instructions for compiling:
+
+  This project uses a makefile to simply compilation of the project. All you have to do is type "make" at the command line and . If you wish to delete the results of a compilation, just type "make clean."
+  The makefile assumes that gcc is installed on the system (which it is on apache.utdalls.edu). Depending upon the architecture it is compiled on, it might spit out some warnings which can be safely ignored.
+
+Instructions for compiling on apache.utdallas.edu:
+
+  Apache's operating system, Solaris, has slightly different calls for semaphores. Therefore, in order to compile for this platform, just type "make solaris." Operation is the same as under Linux.
+
+Instructions for running the program:
+
+  After compiling the program, you will see a few new object files and a new binary executable named "proj2." The program requires no outside data files. The only thing it expects is for the user to input what number of clerks he wishes to use for this run. You can either run the program interactively and answer the question, or you can pipe the number in using the following command:
+
+echo "8" | ./proj2
+
+
+Non-source files:
+
+Makefile
+  This tells make how to compile the program properly.
+
+output
+  Sample output for both the serial and parallel versions.
+
+README
+  This file, which describes how to compile and operate the program.
+
+
+
+Source files:
+
+box.h
+  Defines the box struct which represents the boxes the tractor and clerks use.
+
+clerk.h
+  Function prototypes for clerk.h
+
+clerk.c
+  Contains the clerk thread and two helper functions which represent actions it takes.
+
+proj2.h
+  Function prototypes for proj2.c
+
+proj2.c
+  Contains the main function and a helper function strTime to format the time output properly.
+
+semmacro.h
+  Contains macros which allow the program to compile and function properly under Solaris.
+
+store.h
+  Function prototypes for store.c
+
+store.c
+  Contains the main model function which initializes the boxes and semaphores, starts the tractor and clerk threads, and collects the threads when they're done.
+
+tractor.h
+  Function prototypes for tractor.c
+
+tractor.c
+  Contains the code which powers the tractor thread.

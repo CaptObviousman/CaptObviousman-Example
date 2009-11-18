@@ -1,0 +1,330 @@
+How many clerks should work in the shop? Clerk 1 is created.
+Tractor is created.
+Tractor gets 20 boxes from the stock room.
+Clerk 2 is created.
+Clerk 3 is created.
+Clerk 4 is created.
+Clerk 5 is created.
+Clerk 6 is created.
+Clerk 7 is created.
+Clerk 8 is created.
+Tractor returns from the stock room.
+Clerk 4 gets a box from the tractor.
+Clerk 5 gets a box from the tractor.
+Clerk 6 gets a box from the tractor.
+Clerk 5 puts box on aisle 2 shelf 1.
+Clerk 3 gets a box from the tractor.
+Clerk 4 puts box on aisle 1 shelf 1.
+Clerk 7 gets a box from the tractor.
+Clerk 3 puts box on aisle 1 shelf 2.
+Clerk 2 gets a box from the tractor.
+Clerk 4 leaves aisle 1 shelf 1.
+Clerk 5 leaves aisle 2 shelf 1.
+Clerk 8 gets a box from the tractor.
+Clerk 7 puts box on aisle 2 shelf 1.
+Clerk 1 gets a box from the tractor.
+Clerk 2 puts box on aisle 1 shelf 2.
+Clerk 3 leaves aisle 1 shelf 2.
+Clerk 4 gets a box from the tractor.
+Clerk 5 gets a box from the tractor.
+Clerk 4 puts box on aisle 2 shelf 2.
+Clerk 3 gets a box from the tractor.
+Clerk 7 leaves aisle 2 shelf 1.
+Clerk 7 gets a box from the tractor.
+Clerk 1 puts box on aisle 1 shelf 1.
+Clerk 2 leaves aisle 1 shelf 2.
+Clerk 6 puts box on aisle 1 shelf 2.
+Clerk 2 gets a box from the tractor.
+Clerk 5 puts box on aisle 2 shelf 2.
+Clerk 2 puts box on aisle 2 shelf 1.
+Clerk 4 leaves aisle 2 shelf 2.
+Clerk 4 gets a box from the tractor.
+Clerk 1 leaves aisle 1 shelf 1.
+Clerk 1 gets a box from the tractor.
+Clerk 6 leaves aisle 1 shelf 2.
+Clerk 7 puts box on aisle 1 shelf 2.
+Clerk 6 gets a box from the tractor.
+Clerk 2 leaves aisle 2 shelf 1.
+Clerk 2 gets a box from the tractor.
+Clerk 6 puts box on aisle 2 shelf 1.
+Clerk 5 leaves aisle 2 shelf 2.
+Clerk 5 gets a box from the tractor.
+Clerk 7 leaves aisle 1 shelf 2.
+Clerk 3 puts box on aisle 1 shelf 2.
+Clerk 5 puts box on aisle 2 shelf 2.
+Clerk 7 gets a box from the tractor.
+Clerk 6 leaves aisle 2 shelf 1.
+Clerk 6 takes the last box from the tractor.
+Tractor gets 20 boxes from the stock room.
+Clerk 8 puts box on aisle 1 shelf 2.
+Clerk 3 leaves aisle 1 shelf 2.
+Clerk 2 puts box on aisle 2 shelf 2.
+Clerk 5 leaves aisle 2 shelf 2.
+Clerk 8 leaves aisle 1 shelf 2.
+Clerk 1 puts box on aisle 1 shelf 1.
+Clerk 4 puts box on aisle 1 shelf 2.
+Clerk 2 leaves aisle 2 shelf 2.
+Tractor returns from the stock room.
+Clerk 3 gets a box from the tractor.
+Clerk 8 gets a box from the tractor.
+Clerk 7 puts box on aisle 1 shelf 1.
+Clerk 1 leaves aisle 1 shelf 1.
+Clerk 4 leaves aisle 1 shelf 2.
+Clerk 6 puts box on aisle 1 shelf 2.
+Clerk 3 puts box on aisle 2 shelf 2.
+Clerk 5 gets a box from the tractor.
+Clerk 2 gets a box from the tractor.
+Clerk 4 gets a box from the tractor.
+Clerk 1 gets a box from the tractor.
+Clerk 6 leaves aisle 1 shelf 2.
+Clerk 8 puts box on aisle 1 shelf 1.
+Clerk 7 leaves aisle 1 shelf 1.
+Clerk 3 leaves aisle 2 shelf 2.
+Clerk 4 puts box on aisle 2 shelf 2.
+Clerk 6 gets a box from the tractor.
+Clerk 7 gets a box from the tractor.
+Clerk 3 gets a box from the tractor.
+Clerk 5 puts box on aisle 1 shelf 1.
+Clerk 8 leaves aisle 1 shelf 1.
+Clerk 8 gets a box from the tractor.
+Clerk 2 puts box on aisle 1 shelf 2.
+Clerk 4 leaves aisle 2 shelf 2.
+Clerk 4 gets a box from the tractor.
+Clerk 7 puts box on aisle 2 shelf 2.
+Clerk 2 leaves aisle 1 shelf 2.
+Clerk 2 gets a box from the tractor.
+Clerk 5 leaves aisle 1 shelf 1.
+Clerk 5 gets a box from the tractor.
+Clerk 6 puts box on aisle 1 shelf 1.
+Clerk 1 puts box on aisle 1 shelf 2.
+Clerk 3 puts box on aisle 2 shelf 2.
+Clerk 7 leaves aisle 2 shelf 2.
+Clerk 7 gets a box from the tractor.
+Clerk 1 leaves aisle 1 shelf 2.
+Clerk 1 gets a box from the tractor.
+Clerk 7 puts box on aisle 1 shelf 2.
+Clerk 6 leaves aisle 1 shelf 1.
+Clerk 6 gets a box from the tractor.
+Clerk 8 puts box on aisle 2 shelf 2.
+Clerk 3 leaves aisle 2 shelf 2.
+Clerk 2 puts box on aisle 2 shelf 1.
+Clerk 3 gets a box from the tractor.
+Clerk 7 leaves aisle 1 shelf 2.
+Clerk 7 gets a box from the tractor.
+Clerk 4 puts box on aisle 1 shelf 2.
+Clerk 8 leaves aisle 2 shelf 2.
+Clerk 6 puts box on aisle 2 shelf 2.
+Clerk 8 gets a box from the tractor.
+Clerk 2 leaves aisle 2 shelf 1.
+Clerk 1 puts box on aisle 2 shelf 1.
+Clerk 2 takes the last box from the tractor.
+Tractor gets 20 boxes from the stock room.
+Clerk 4 leaves aisle 1 shelf 2.
+Clerk 3 puts box on aisle 1 shelf 1.
+Clerk 5 puts box on aisle 1 shelf 2.
+Clerk 6 leaves aisle 2 shelf 2.
+Clerk 1 leaves aisle 2 shelf 1.
+Clerk 7 puts box on aisle 1 shelf 2.
+Clerk 5 leaves aisle 1 shelf 2.
+Clerk 3 leaves aisle 1 shelf 1.
+Clerk 8 puts box on aisle 1 shelf 1.
+Tractor returns from the stock room.
+Clerk 6 gets a box from the tractor.
+Clerk 4 gets a box from the tractor.
+Clerk 4 puts box on aisle 2 shelf 1.
+Clerk 1 gets a box from the tractor.
+Clerk 5 gets a box from the tractor.
+Clerk 7 leaves aisle 1 shelf 2.
+Clerk 2 puts box on aisle 1 shelf 2.
+Clerk 8 leaves aisle 1 shelf 1.
+Clerk 3 gets a box from the tractor.
+Clerk 7 gets a box from the tractor.
+Clerk 2 leaves aisle 1 shelf 2.
+Clerk 2 gets a box from the tractor.
+Clerk 6 puts box on aisle 2 shelf 1.
+Clerk 4 leaves aisle 2 shelf 1.
+Clerk 8 gets a box from the tractor.
+Clerk 4 gets a box from the tractor.
+Clerk 6 leaves aisle 2 shelf 1.
+Clerk 6 gets a box from the tractor.
+Clerk 5 puts box on aisle 2 shelf 2.
+Clerk 1 puts box on aisle 2 shelf 1.
+Clerk 1 leaves aisle 2 shelf 1.
+Clerk 1 gets a box from the tractor.
+Clerk 3 puts box on aisle 2 shelf 2.
+Clerk 7 puts box on aisle 2 shelf 1.
+Clerk 5 leaves aisle 2 shelf 2.
+Clerk 5 gets a box from the tractor.
+Clerk 1 puts box on aisle 1 shelf 2.
+Clerk 5 puts box on aisle 1 shelf 1.
+Clerk 2 puts box on aisle 2 shelf 1.
+Clerk 7 leaves aisle 2 shelf 1.
+Clerk 7 gets a box from the tractor.
+Clerk 3 leaves aisle 2 shelf 2.
+Clerk 3 gets a box from the tractor.
+Clerk 8 puts box on aisle 2 shelf 2.
+Clerk 1 leaves aisle 1 shelf 2.
+Clerk 1 gets a box from the tractor.
+Clerk 5 leaves aisle 1 shelf 1.
+Clerk 5 gets a box from the tractor.
+Clerk 5 puts box on aisle 1 shelf 2.
+Clerk 8 leaves aisle 2 shelf 2.
+Clerk 8 gets a box from the tractor.
+Clerk 4 puts box on aisle 2 shelf 2.
+Clerk 6 puts box on aisle 2 shelf 1.
+Clerk 2 leaves aisle 2 shelf 1.
+Clerk 2 gets a box from the tractor.
+Clerk 7 puts box on aisle 2 shelf 1.
+Clerk 6 leaves aisle 2 shelf 1.
+Clerk 6 gets a box from the tractor.
+Clerk 4 leaves aisle 2 shelf 2.
+Clerk 4 takes the last box from the tractor.
+Clerk 5 leaves aisle 1 shelf 2.
+Tractor gets 20 boxes from the stock room.
+Clerk 6 puts box on aisle 1 shelf 1.
+Clerk 3 puts box on aisle 2 shelf 1.
+Clerk 7 leaves aisle 2 shelf 1.
+Clerk 6 leaves aisle 1 shelf 1.
+Tractor returns from the stock room.
+Clerk 7 gets a box from the tractor.
+Clerk 5 gets a box from the tractor.
+Clerk 3 leaves aisle 2 shelf 1.
+Clerk 8 puts box on aisle 2 shelf 1.
+Clerk 5 puts box on aisle 1 shelf 1.
+Clerk 6 gets a box from the tractor.
+Clerk 3 gets a box from the tractor.
+Clerk 2 puts box on aisle 2 shelf 1.
+Clerk 8 leaves aisle 2 shelf 1.
+Clerk 8 gets a box from the tractor.
+Clerk 7 puts box on aisle 1 shelf 1.
+Clerk 3 puts box on aisle 1 shelf 2.
+Clerk 5 leaves aisle 1 shelf 1.
+Clerk 5 gets a box from the tractor.
+Clerk 4 puts box on aisle 2 shelf 1.
+Clerk 2 leaves aisle 2 shelf 1.
+Clerk 2 gets a box from the tractor.
+Clerk 3 leaves aisle 1 shelf 2.
+Clerk 3 gets a box from the tractor.
+Clerk 7 leaves aisle 1 shelf 1.
+Clerk 5 puts box on aisle 1 shelf 1.
+Clerk 6 puts box on aisle 1 shelf 2.
+Clerk 7 gets a box from the tractor.
+Clerk 8 puts box on aisle 2 shelf 2.
+Clerk 4 leaves aisle 2 shelf 1.
+Clerk 4 gets a box from the tractor.
+Clerk 1 puts box on aisle 2 shelf 1.
+Clerk 5 leaves aisle 1 shelf 1.
+Clerk 5 gets a box from the tractor.
+Clerk 6 leaves aisle 1 shelf 2.
+Clerk 6 gets a box from the tractor.
+Clerk 5 puts box on aisle 1 shelf 1.
+Clerk 2 puts box on aisle 2 shelf 2.
+Clerk 8 leaves aisle 2 shelf 2.
+Clerk 8 gets a box from the tractor.
+Clerk 1 leaves aisle 2 shelf 1.
+Clerk 3 puts box on aisle 2 shelf 1.
+Clerk 6 puts box on aisle 1 shelf 2.
+Clerk 1 gets a box from the tractor.
+Clerk 5 leaves aisle 1 shelf 1.
+Clerk 5 gets a box from the tractor.
+Clerk 3 leaves aisle 2 shelf 1.
+Clerk 3 gets a box from the tractor.
+Clerk 7 puts box on aisle 2 shelf 1.
+Clerk 2 leaves aisle 2 shelf 2.
+Clerk 6 leaves aisle 1 shelf 2.
+Clerk 2 gets a box from the tractor.
+Clerk 5 puts box on aisle 1 shelf 1.
+Clerk 6 gets a box from the tractor.
+Clerk 2 puts box on aisle 1 shelf 2.
+Clerk 4 puts box on aisle 2 shelf 1.
+Clerk 7 leaves aisle 2 shelf 1.
+Clerk 7 gets a box from the tractor.
+Clerk 5 leaves aisle 1 shelf 1.
+Clerk 5 takes the last box from the tractor.
+Tractor gets 20 boxes from the stock room.
+Clerk 7 puts box on aisle 1 shelf 1.
+Clerk 2 leaves aisle 1 shelf 2.
+Clerk 8 puts box on aisle 2 shelf 1.
+Clerk 4 leaves aisle 2 shelf 1.
+Clerk 1 puts box on aisle 2 shelf 2.
+Clerk 7 leaves aisle 1 shelf 1.
+Clerk 1 leaves aisle 2 shelf 2.
+Clerk 8 leaves aisle 2 shelf 1.
+Clerk 3 puts box on aisle 2 shelf 1.
+Clerk 6 puts box on aisle 2 shelf 2.
+Tractor returns from the stock room.
+Clerk 1 gets a box from the tractor.
+Clerk 7 gets a box from the tractor.
+Clerk 4 gets a box from the tractor.
+Clerk 2 gets a box from the tractor.
+Clerk 7 puts box on aisle 1 shelf 2.
+Clerk 5 puts box on aisle 2 shelf 1.
+Clerk 3 leaves aisle 2 shelf 1.
+Clerk 6 leaves aisle 2 shelf 2.
+Clerk 1 puts box on aisle 2 shelf 2.
+Clerk 8 gets a box from the tractor.
+Clerk 3 gets a box from the tractor.
+Clerk 7 leaves aisle 1 shelf 2.
+Clerk 3 puts box on aisle 1 shelf 1.
+Clerk 6 gets a box from the tractor.
+Clerk 5 leaves aisle 2 shelf 1.
+Clerk 4 puts box on aisle 2 shelf 1.
+Clerk 1 leaves aisle 2 shelf 2.
+Clerk 8 puts box on aisle 1 shelf 2.
+Clerk 7 gets a box from the tractor.
+Clerk 5 gets a box from the tractor.
+Clerk 1 gets a box from the tractor.
+Clerk 3 leaves aisle 1 shelf 1.
+Clerk 6 puts box on aisle 1 shelf 1.
+Clerk 8 leaves aisle 1 shelf 2.
+Clerk 2 puts box on aisle 2 shelf 1.
+Clerk 4 leaves aisle 2 shelf 1.
+Clerk 7 puts box on aisle 2 shelf 2.
+Clerk 3 gets a box from the tractor.
+Clerk 8 gets a box from the tractor.
+Clerk 4 gets a box from the tractor.
+Clerk 7 leaves aisle 2 shelf 2.
+Clerk 7 gets a box from the tractor.
+Clerk 5 puts box on aisle 2 shelf 1.
+Clerk 2 leaves aisle 2 shelf 1.
+Clerk 1 puts box on aisle 1 shelf 1.
+Clerk 6 leaves aisle 1 shelf 1.
+Clerk 2 gets a box from the tractor.
+Clerk 6 gets a box from the tractor.
+Clerk 3 puts box on aisle 2 shelf 1.
+Clerk 5 leaves aisle 2 shelf 1.
+Clerk 5 gets a box from the tractor.
+Clerk 1 leaves aisle 1 shelf 1.
+Clerk 8 puts box on aisle 1 shelf 1.
+Clerk 1 gets a box from the tractor.
+Clerk 5 puts box on aisle 1 shelf 2.
+Clerk 8 leaves aisle 1 shelf 1.
+Clerk 8 gets a box from the tractor.
+Clerk 1 puts box on aisle 1 shelf 1.
+Clerk 4 puts box on aisle 2 shelf 1.
+Clerk 3 leaves aisle 2 shelf 1.
+Clerk 3 takes the last box from the tractor.
+Tractor has finished.
+Clerk 5 leaves aisle 1 shelf 2.
+Clerk 5 has finished.
+Clerk 4 leaves aisle 2 shelf 1.
+Clerk 4 has finished.
+Clerk 2 puts box on aisle 2 shelf 1.
+Clerk 1 leaves aisle 1 shelf 1.
+Clerk 1 has finished.
+Clerk 8 puts box on aisle 1 shelf 1.
+Clerk 8 leaves aisle 1 shelf 1.
+Clerk 8 has finished.
+Clerk 7 puts box on aisle 2 shelf 1.
+Clerk 2 leaves aisle 2 shelf 1.
+Clerk 2 has finished.
+Clerk 6 puts box on aisle 2 shelf 2.
+Clerk 7 leaves aisle 2 shelf 1.
+Clerk 7 has finished.
+Clerk 6 leaves aisle 2 shelf 2.
+Clerk 6 has finished.
+Clerk 3 puts box on aisle 2 shelf 2.
+Clerk 3 leaves aisle 2 shelf 2.
+Clerk 3 has finished.
+
+88.153 seconds
